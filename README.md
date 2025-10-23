@@ -14,5 +14,5 @@ This project uses Sentinel-2 satellite imagery to compute vegetation indices (ND
 - Analysis of vegetation changes
 - Supports real-time monitoring
 
-## License
-MIT
+## Author
+Kheira Abdellaoui
